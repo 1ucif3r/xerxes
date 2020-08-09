@@ -1,14 +1,14 @@
-XerXes
+  #                                 XERXES
 
-The Most Powerful DoS tool
-CLONE
+                           The Most Powerful DoS tool
+# CLONE
 
-# git clone https://github.com/CyberXCodder/XerXes.git
+git clone https://github.com/CyberXCodder/XerXes.git
 
-COMPILE
+# COMPILE
 
-# gcc xerxes.c -o xerxes
+ gcc xerxes.c -o xerxes
 
-RUNNING
+# RUNNING
 
-# ./xerxes www.fakesite.com 80
+./xerxes www.fakesite.com 80
